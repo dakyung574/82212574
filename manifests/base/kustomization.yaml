@@ -1,3 +1,4 @@
+namespace: "82212574"
 resources:
 - deployment.yaml
 - service.yaml
