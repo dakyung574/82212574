@@ -1,4 +1,4 @@
-namespace: 82212574-test
+namespace: "82212574"
 configMapGenerator:
 - files:
   - application.yml
