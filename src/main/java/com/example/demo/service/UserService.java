@@ -20,7 +20,7 @@ public class UserService {
         log.info("url.getHost(): {}", url.getHost());
 
         // 정규 표현식 패턴
-        String pattern = "sampleapp1-(\\d+)\\.ce-aa\\.kubepia\\.net";
+        String pattern = "sampleapp-(\\d+)\\.ce-aa\\.kubepia\\.net";
 
         // 패턴 컴파일
         Pattern r = Pattern.compile(pattern);
