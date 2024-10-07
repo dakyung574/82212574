@@ -1,4 +1,4 @@
-namespace: "82212574"
+namespace: 82212574-test
 resources:
 - deployment.yaml
 - service.yaml
